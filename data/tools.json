@@ -1,0 +1,697 @@
+[
+  {
+    "id": "perplexity",
+    "slug": "perplexity",
+    "name": "Perplexity",
+    "url": "https://www.perplexity.ai/",
+    "tagline": "Answer engine with citations.",
+    "description": "Source-grounded answers for scoping questions. Verify primary sources for critical claims.",
+    "pricing": "freemium",
+    "categories": [
+      "General research assistants & chatbots"
+    ],
+    "tags": [
+      "Q&A",
+      "search",
+      "citations"
+    ],
+    "logo": "assets/logos/placeholder.png",
+    "evidence_cites": true,
+    "local_onprem": false,
+    "edu_discount": false,
+    "free_tier": true,
+    "beta": false,
+    "created_at": "2025-08-29"
+  },
+  {
+    "id": "notebooklm",
+    "slug": "notebooklm",
+    "name": "NotebookLM",
+    "url": "https://notebooklm.google/",
+    "tagline": "Source-grounded AI notebooks.",
+    "description": "Upload sources \u2192 ask questions, get outlines and summaries tied to your material.",
+    "pricing": "freemium",
+    "categories": [
+      "General research assistants & chatbots"
+    ],
+    "tags": [
+      "notebooks",
+      "summaries",
+      "grounded"
+    ],
+    "logo": "assets/logos/placeholder.png",
+    "evidence_cites": true,
+    "local_onprem": false,
+    "edu_discount": true,
+    "free_tier": true,
+    "beta": false,
+    "created_at": "2025-08-29"
+  },
+  {
+    "id": "semantic-scholar",
+    "slug": "semantic-scholar",
+    "name": "Semantic Scholar",
+    "url": "https://www.semanticscholar.org/",
+    "tagline": "AI-driven academic search.",
+    "description": "Find relevant papers across disciplines; handy TLDR summaries and citation graphs.",
+    "pricing": "free",
+    "categories": [
+      "Discover & map literature"
+    ],
+    "tags": [
+      "search",
+      "papers",
+      "summaries"
+    ],
+    "logo": "assets/logos/placeholder.png",
+    "evidence_cites": true,
+    "local_onprem": false,
+    "edu_discount": false,
+    "free_tier": true,
+    "beta": false,
+    "created_at": "2025-08-29"
+  },
+  {
+    "id": "elicit",
+    "slug": "elicit",
+    "name": "Elicit",
+    "url": "https://elicit.org/",
+    "tagline": "Research discovery Q&A.",
+    "description": "Natural-language queries return relevant papers and extracted key points to jumpstart reviews.",
+    "pricing": "freemium",
+    "categories": [
+      "Discover & map literature"
+    ],
+    "tags": [
+      "search",
+      "extract"
+    ],
+    "logo": "assets/logos/placeholder.png",
+    "evidence_cites": true,
+    "local_onprem": false,
+    "edu_discount": false,
+    "free_tier": true,
+    "beta": false,
+    "created_at": "2025-08-29"
+  },
+  {
+    "id": "scispace",
+    "slug": "scispace-copilot",
+    "name": "SciSpace Copilot",
+    "url": "https://typeset.io/",
+    "tagline": "Explain papers as you read.",
+    "description": "Ask questions alongside PDFs; get simpler explanations of math, tables, and graphs.",
+    "pricing": "freemium",
+    "categories": [
+      "Read, summarize, & extract"
+    ],
+    "tags": [
+      "pdf",
+      "explain",
+      "summarize"
+    ],
+    "logo": "assets/logos/placeholder.png",
+    "evidence_cites": true,
+    "local_onprem": false,
+    "edu_discount": false,
+    "free_tier": true,
+    "beta": false,
+    "created_at": "2025-08-29"
+  },
+  {
+    "id": "chatpdf",
+    "slug": "chatpdf",
+    "name": "ChatPDF",
+    "url": "https://www.chatpdf.com/",
+    "tagline": "Chat with your PDFs.",
+    "description": "Upload papers and ask targeted questions to extract passages and summaries.",
+    "pricing": "freemium",
+    "categories": [
+      "Read, summarize, & extract"
+    ],
+    "tags": [
+      "pdf",
+      "qa"
+    ],
+    "logo": "assets/logos/placeholder.png",
+    "evidence_cites": false,
+    "local_onprem": false,
+    "edu_discount": false,
+    "free_tier": true,
+    "beta": false,
+    "created_at": "2025-08-29"
+  },
+  {
+    "id": "scite",
+    "slug": "scite",
+    "name": "Scite",
+    "url": "https://scite.ai/",
+    "tagline": "Smart citation statements.",
+    "description": "See whether later studies support or contrast a paper\u2019s claims with classification labels.",
+    "pricing": "freemium",
+    "categories": [
+      "Evaluate claims & citations"
+    ],
+    "tags": [
+      "citations",
+      "evidence"
+    ],
+    "logo": "assets/logos/placeholder.png",
+    "evidence_cites": true,
+    "local_onprem": false,
+    "edu_discount": true,
+    "free_tier": true,
+    "beta": false,
+    "created_at": "2025-08-29"
+  },
+  {
+    "id": "consensus",
+    "slug": "consensus",
+    "name": "Consensus",
+    "url": "https://consensus.app/",
+    "tagline": "Cited answers from papers.",
+    "description": "Synthesizes findings from multiple papers to answer research questions with citations.",
+    "pricing": "freemium",
+    "categories": [
+      "Evaluate claims & citations"
+    ],
+    "tags": [
+      "qa",
+      "synthesis"
+    ],
+    "logo": "assets/logos/placeholder.png",
+    "evidence_cites": true,
+    "local_onprem": false,
+    "edu_discount": false,
+    "free_tier": true,
+    "beta": true,
+    "created_at": "2025-08-29"
+  },
+  {
+    "id": "zotero",
+    "slug": "zotero",
+    "name": "Zotero",
+    "url": "https://www.zotero.org/",
+    "tagline": "Open-source reference manager.",
+    "description": "Collect and organize PDFs, cite in your documents; extensible via plugins.",
+    "pricing": "free",
+    "categories": [
+      "Citation & reference management"
+    ],
+    "tags": [
+      "references",
+      "bibtex",
+      "ris"
+    ],
+    "logo": "assets/logos/placeholder.png",
+    "evidence_cites": false,
+    "local_onprem": true,
+    "edu_discount": false,
+    "free_tier": true,
+    "beta": false,
+    "created_at": "2025-08-29"
+  },
+  {
+    "id": "paperpile",
+    "slug": "paperpile",
+    "name": "Paperpile",
+    "url": "https://paperpile.com/",
+    "tagline": "Reference manager for Google Docs.",
+    "description": "Clean browser-based manager with fast PDF handling and citation insertion.",
+    "pricing": "paid",
+    "categories": [
+      "Citation & reference management"
+    ],
+    "tags": [
+      "references",
+      "google-docs"
+    ],
+    "logo": "assets/logos/placeholder.png",
+    "evidence_cites": false,
+    "local_onprem": false,
+    "edu_discount": true,
+    "free_tier": false,
+    "beta": false,
+    "created_at": "2025-08-29"
+  },
+  {
+    "id": "writefull",
+    "slug": "writefull",
+    "name": "Writefull",
+    "url": "https://www.writefull.com/",
+    "tagline": "AI writing aid for academia.",
+    "description": "Improves grammar and phrasing tailored to scientific styles; integrates with editors.",
+    "pricing": "freemium",
+    "categories": [
+      "Writing & publishing"
+    ],
+    "tags": [
+      "grammar",
+      "academic"
+    ],
+    "logo": "assets/logos/placeholder.png",
+    "evidence_cites": false,
+    "local_onprem": false,
+    "edu_discount": true,
+    "free_tier": true,
+    "beta": false,
+    "created_at": "2025-08-29"
+  },
+  {
+    "id": "grammarly",
+    "slug": "grammarly",
+    "name": "Grammarly",
+    "url": "https://www.grammarly.com/",
+    "tagline": "Popular writing assistant.",
+    "description": "Grammar and style suggestions; use cautiously for technical text.",
+    "pricing": "freemium",
+    "categories": [
+      "Writing & publishing"
+    ],
+    "tags": [
+      "grammar",
+      "style"
+    ],
+    "logo": "assets/logos/placeholder.png",
+    "evidence_cites": false,
+    "local_onprem": false,
+    "edu_discount": false,
+    "free_tier": true,
+    "beta": false,
+    "created_at": "2025-08-29"
+  },
+  {
+    "id": "copilot",
+    "slug": "github-copilot",
+    "name": "GitHub Copilot",
+    "url": "https://github.com/features/copilot",
+    "tagline": "AI pair programmer.",
+    "description": "Autocomplete and code suggestions in IDEs; always review and test outputs.",
+    "pricing": "paid",
+    "categories": [
+      "Coding, stats, & automation"
+    ],
+    "tags": [
+      "coding",
+      "ide"
+    ],
+    "logo": "assets/logos/placeholder.png",
+    "evidence_cites": false,
+    "local_onprem": false,
+    "edu_discount": true,
+    "free_tier": false,
+    "beta": false,
+    "created_at": "2025-08-29"
+  },
+  {
+    "id": "openai-ada",
+    "slug": "chatgpt-advanced-data-analysis",
+    "name": "ChatGPT (Advanced Data Analysis)",
+    "url": "https://chat.openai.com/",
+    "tagline": "Chat + Python sandbox.",
+    "description": "Upload datasets and get code, charts, and analyses\u2014verify all stats and methods.",
+    "pricing": "paid",
+    "categories": [
+      "Coding, stats, & automation"
+    ],
+    "tags": [
+      "python",
+      "analysis"
+    ],
+    "logo": "assets/logos/placeholder.png",
+    "evidence_cites": false,
+    "local_onprem": false,
+    "edu_discount": false,
+    "free_tier": false,
+    "beta": true,
+    "created_at": "2025-08-29"
+  },
+  {
+    "id": "pandasai",
+    "slug": "pandasai",
+    "name": "PandasAI",
+    "url": "https://github.com/gventuri/pandas-ai",
+    "tagline": "Natural language to pandas.",
+    "description": "Ask questions of your DataFrames; inspects and generates Python code for you to run.",
+    "pricing": "free",
+    "categories": [
+      "Data wrangling, analysis, & visualization"
+    ],
+    "tags": [
+      "python",
+      "pandas"
+    ],
+    "logo": "assets/logos/placeholder.png",
+    "evidence_cites": false,
+    "local_onprem": true,
+    "edu_discount": false,
+    "free_tier": true,
+    "beta": true,
+    "created_at": "2025-08-29"
+  },
+  {
+    "id": "kanaries",
+    "slug": "kanaries-rath",
+    "name": "Kanaries RATH",
+    "url": "https://rath.kanaries.net/",
+    "tagline": "AI-assisted EDA and charts.",
+    "description": "Auto-insights and visualization generation; helpful for exploration.",
+    "pricing": "freemium",
+    "categories": [
+      "Data wrangling, analysis, & visualization"
+    ],
+    "tags": [
+      "viz",
+      "eda"
+    ],
+    "logo": "assets/logos/placeholder.png",
+    "evidence_cites": false,
+    "local_onprem": false,
+    "edu_discount": false,
+    "free_tier": true,
+    "beta": true,
+    "created_at": "2025-08-29"
+  },
+  {
+    "id": "nvivo",
+    "slug": "nvivo",
+    "name": "NVivo",
+    "url": "https://lumivero.com/products/nvivo/",
+    "tagline": "QDA with ML autocoding.",
+    "description": "Code qualitative data, use ML to auto-suggest themes; review manually for accuracy.",
+    "pricing": "paid",
+    "categories": [
+      "Qualitative analysis"
+    ],
+    "tags": [
+      "qda",
+      "coding"
+    ],
+    "logo": "assets/logos/placeholder.png",
+    "evidence_cites": false,
+    "local_onprem": false,
+    "edu_discount": true,
+    "free_tier": false,
+    "beta": false,
+    "created_at": "2025-08-29"
+  },
+  {
+    "id": "atlasti",
+    "slug": "atlas-ti",
+    "name": "ATLAS.ti",
+    "url": "https://atlasti.com/",
+    "tagline": "QDA with AI Coding (beta).",
+    "description": "Auto-generate descriptive codes and summaries\u2014use with caution for sensitive data.",
+    "pricing": "paid",
+    "categories": [
+      "Qualitative analysis"
+    ],
+    "tags": [
+      "qda",
+      "coding"
+    ],
+    "logo": "assets/logos/placeholder.png",
+    "evidence_cites": false,
+    "local_onprem": false,
+    "edu_discount": true,
+    "free_tier": false,
+    "beta": true,
+    "created_at": "2025-08-29"
+  },
+  {
+    "id": "otter",
+    "slug": "otter-ai",
+    "name": "Otter.ai",
+    "url": "https://otter.ai/",
+    "tagline": "Meeting transcription & summaries.",
+    "description": "Record meetings and interviews, generate notes and highlights; proofread for accuracy.",
+    "pricing": "freemium",
+    "categories": [
+      "Transcription & meeting notes"
+    ],
+    "tags": [
+      "transcription",
+      "meetings"
+    ],
+    "logo": "assets/logos/placeholder.png",
+    "evidence_cites": false,
+    "local_onprem": false,
+    "edu_discount": true,
+    "free_tier": true,
+    "beta": false,
+    "created_at": "2025-08-29"
+  },
+  {
+    "id": "whisper",
+    "slug": "openai-whisper",
+    "name": "OpenAI Whisper",
+    "url": "https://github.com/openai/whisper",
+    "tagline": "Open-source speech-to-text.",
+    "description": "Run locally for privacy; strong multilingual accuracy; CLI usage required.",
+    "pricing": "free",
+    "categories": [
+      "Transcription & meeting notes"
+    ],
+    "tags": [
+      "speech",
+      "transcription"
+    ],
+    "logo": "assets/logos/placeholder.png",
+    "evidence_cites": false,
+    "local_onprem": true,
+    "edu_discount": false,
+    "free_tier": true,
+    "beta": false,
+    "created_at": "2025-08-29"
+  },
+  {
+    "id": "qualtrics",
+    "slug": "qualtrics",
+    "name": "Qualtrics XM (Text iQ)",
+    "url": "https://www.qualtrics.com/",
+    "tagline": "Enterprise survey + text analytics.",
+    "description": "Theme detection and sentiment for open-ended responses; best with large samples.",
+    "pricing": "paid",
+    "categories": [
+      "Surveys & text analytics"
+    ],
+    "tags": [
+      "survey",
+      "text-mining"
+    ],
+    "logo": "assets/logos/placeholder.png",
+    "evidence_cites": false,
+    "local_onprem": false,
+    "edu_discount": true,
+    "free_tier": false,
+    "beta": false,
+    "created_at": "2025-08-29"
+  },
+  {
+    "id": "surveymonkey",
+    "slug": "surveymonkey",
+    "name": "SurveyMonkey + Genius",
+    "url": "https://www.surveymonkey.com/",
+    "tagline": "AI-assisted survey building.",
+    "description": "Draft surveys and summarize results; pilot test AI-generated questions.",
+    "pricing": "freemium",
+    "categories": [
+      "Surveys & text analytics"
+    ],
+    "tags": [
+      "survey",
+      "builder"
+    ],
+    "logo": "assets/logos/placeholder.png",
+    "evidence_cites": false,
+    "local_onprem": false,
+    "edu_discount": true,
+    "free_tier": true,
+    "beta": false,
+    "created_at": "2025-08-29"
+  },
+  {
+    "id": "biorender",
+    "slug": "biorender",
+    "name": "BioRender",
+    "url": "https://biorender.com/",
+    "tagline": "Scientific figures fast.",
+    "description": "Drag-and-drop templates and icons for accurate schematics; good for papers and talks.",
+    "pricing": "freemium",
+    "categories": [
+      "Figures, images & visualizations"
+    ],
+    "tags": [
+      "figures",
+      "diagrams"
+    ],
+    "logo": "assets/logos/placeholder.png",
+    "evidence_cites": false,
+    "local_onprem": false,
+    "edu_discount": true,
+    "free_tier": true,
+    "beta": false,
+    "created_at": "2025-08-29"
+  },
+  {
+    "id": "dalle3",
+    "slug": "dalle-3",
+    "name": "DALL\u00b7E 3",
+    "url": "https://openai.com/",
+    "tagline": "Text-to-image generation.",
+    "description": "Produce conceptual illustrations\u2014label AI images and avoid misuse for scientific evidence.",
+    "pricing": "paid",
+    "categories": [
+      "Figures, images & visualizations"
+    ],
+    "tags": [
+      "images",
+      "generation"
+    ],
+    "logo": "assets/logos/placeholder.png",
+    "evidence_cites": false,
+    "local_onprem": false,
+    "edu_discount": false,
+    "free_tier": false,
+    "beta": true,
+    "created_at": "2025-08-29"
+  },
+  {
+    "id": "gradescope",
+    "slug": "gradescope",
+    "name": "Gradescope",
+    "url": "https://www.gradescope.com/",
+    "tagline": "Assistive grading for problem sets.",
+    "description": "Group similar answers to speed grading; instructors verify groups.",
+    "pricing": "paid",
+    "categories": [
+      "Teaching & assessment"
+    ],
+    "tags": [
+      "grading",
+      "education"
+    ],
+    "logo": "assets/logos/placeholder.png",
+    "evidence_cites": false,
+    "local_onprem": false,
+    "edu_discount": true,
+    "free_tier": false,
+    "beta": false,
+    "created_at": "2025-08-29"
+  },
+  {
+    "id": "turnitin",
+    "slug": "turnitin-originality",
+    "name": "Turnitin (Originality & AI Writing)",
+    "url": "https://www.turnitin.com/",
+    "tagline": "Similarity checking + AI detection.",
+    "description": "Use similarity reports to open dialogue; AI detectors can be unreliable\u2014interpret cautiously.",
+    "pricing": "paid",
+    "categories": [
+      "Integrity & compliance"
+    ],
+    "tags": [
+      "similarity",
+      "integrity"
+    ],
+    "logo": "assets/logos/placeholder.png",
+    "evidence_cites": false,
+    "local_onprem": false,
+    "edu_discount": true,
+    "free_tier": false,
+    "beta": false,
+    "created_at": "2025-08-29"
+  },
+  {
+    "id": "benchling",
+    "slug": "benchling",
+    "name": "Benchling",
+    "url": "https://www.benchling.com/",
+    "tagline": "Modern ELN for life sciences.",
+    "description": "Collaborative lab notebook with AI helpers and inventory; institutional tool.",
+    "pricing": "paid",
+    "categories": [
+      "Project & experiment tracking"
+    ],
+    "tags": [
+      "eln",
+      "lab"
+    ],
+    "logo": "assets/logos/placeholder.png",
+    "evidence_cites": false,
+    "local_onprem": false,
+    "edu_discount": true,
+    "free_tier": false,
+    "beta": false,
+    "created_at": "2025-08-29"
+  },
+  {
+    "id": "protocol-builder",
+    "slug": "protocol-builder",
+    "name": "Protocol Builder",
+    "url": "https://www.brany.com/protocol-builder/",
+    "tagline": "IRB protocol assistant.",
+    "description": "Templates and AI-assisted text for protocols and consent\u2014requires thorough review.",
+    "pricing": "paid",
+    "categories": [
+      "Policy & ethics support"
+    ],
+    "tags": [
+      "irb",
+      "ethics"
+    ],
+    "logo": "assets/logos/placeholder.png",
+    "evidence_cites": false,
+    "local_onprem": false,
+    "edu_discount": false,
+    "free_tier": false,
+    "beta": false,
+    "created_at": "2025-08-29"
+  },
+  {
+    "id": "notion-ai",
+    "slug": "notion-ai",
+    "name": "Notion AI",
+    "url": "https://www.notion.so/product/ai",
+    "tagline": "AI in your team wiki.",
+    "description": "Ask questions of your workspace and summarize notes; mind privacy and accuracy.",
+    "pricing": "freemium",
+    "categories": [
+      "Collaboration & knowledge management"
+    ],
+    "tags": [
+      "notes",
+      "wiki"
+    ],
+    "logo": "assets/logos/placeholder.png",
+    "evidence_cites": false,
+    "local_onprem": false,
+    "edu_discount": true,
+    "free_tier": true,
+    "beta": false,
+    "created_at": "2025-08-29"
+  },
+  {
+    "id": "slack-gpt",
+    "slug": "slack-gpt",
+    "name": "Slack GPT",
+    "url": "https://slack.com/",
+    "tagline": "Summarize threads, draft replies.",
+    "description": "Experimental features that help keep up with busy channels\u2014use with team guidelines.",
+    "pricing": "paid",
+    "categories": [
+      "Collaboration & knowledge management"
+    ],
+    "tags": [
+      "chat",
+      "summaries"
+    ],
+    "logo": "assets/logos/placeholder.png",
+    "evidence_cites": false,
+    "local_onprem": false,
+    "edu_discount": true,
+    "free_tier": false,
+    "beta": true,
+    "created_at": "2025-08-29"
+  }
+]
